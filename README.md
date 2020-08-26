@@ -1,4 +1,4 @@
-# Speech Score
+# Stock Patterns
 
 ## Introduction
 
